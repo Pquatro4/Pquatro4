@@ -6,7 +6,7 @@
 
 ## 🚀 Tecnologias que estou aprendendo
 - Linguagens: **C, Java, C#,Python**
-- Tecnoligia : **Azure**
+- Tecnologia : **Azure**
 - Ferramentas: **GitHub**
 
 
