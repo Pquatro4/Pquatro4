@@ -13,5 +13,5 @@
 ---
 
 ## 📫 Como me encontrar
-📧 E-mail: **Pabloviniciusdecamargo@gmail.com**  
+📧 [E-mail] (Pabloviniciusdecamargo@gmail.com)
 🌐 [LinkedIn](www.linkedin.com/in/pabloviniciusdecamargo)  
