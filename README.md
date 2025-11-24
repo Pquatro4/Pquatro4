@@ -5,9 +5,9 @@
 ---
 
 ## 🚀 Tecnologias que estou estudando
-- Linguagens: **Python**
-- Prataformas : **Azure**
-- Ferramentas: **GitHub**
+- Linguagens: **Python**, **.NET**
+- Plataformas : **Azure**
+- Ferramentas: **GitHub**, **Git**
 
 
 ---
