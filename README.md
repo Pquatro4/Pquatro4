@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Pablo Vinicius de Camargo  
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas na Fatec Sorocaba**   
+🎓  Sou estudante de **Análise e Desenvolvimento de Sistemas na Fatec Sorocaba**   
 
 ---
 
